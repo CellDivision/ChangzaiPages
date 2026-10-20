@@ -1,6 +1,6 @@
 # 喵喵侦探社隐私政策发布说明
 
-政策网页：`meow_detective_club_google.html`，包含简体中文和 English，可用 `#zh` / `#en` 直接定位。
+政策网页：`meow_detective_club_google.html`，英文在上、简体中文在下，可用 `#en` / `#zh` 直接定位。页面默认语言为 `en-US`，中文正文及导航单独标注 `zh-CN`。
 
 ## 当前依据及需核实的信息
 
